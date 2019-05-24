@@ -1,5 +1,4 @@
 #!/bin/bash
-#Coded By GUS10N
 #WEBDAV
 #Knp Lihat-Lihat
 #Mau Recode?Dosa Gan
@@ -18,11 +17,9 @@ figlet -f pagga WEBDAV | lolcat
 
 clear
 echo _____________________________________________ | lolcat
-toilet -f future "GUS10N"
-echo $i "Author : GUS10N"
+echo $i "Author : 3RR0R"
 echo $i "WA     : +6285332814651"
 echo $i "Github : https://github.com/Moreno-ID"
-echo $i "Team   : NoTeam[NeedTeam]"
 echo _____________________________________________ | lolcat
 
 echo ""
