@@ -13,11 +13,11 @@ ku='\033[33;1m' #kuning
 
 clear
 cd /sdcard
-figlet -f pagga WEBDAV | lolcat
+figlet -f slant WEBDAV | lolcat
 
 clear
 echo _____________________________________________ | lolcat
-echo $i "Author : 3RR0R"
+echo $i "Author : Mr.MOC"
 echo $i "WA     : +6285332814651"
 echo $i "Github : https://github.com/Moreno-ID"
 echo _____________________________________________ | lolcat
